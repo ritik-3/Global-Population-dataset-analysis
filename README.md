@@ -77,12 +77,6 @@ project-directory
 3. **Power BI**:
    - Open the `GlobalPopulationDashboard.pbix` file in Power BI Desktop.
 
-## Data Analysis and Visualization
-
-### Analysis Scripts
-
-- **Data Cleaning** (`data_cleaning.py`): Prepares the dataset for analysis by handling missing values, renaming columns, and restructuring the dataset.
-- **Statistical Analysis** (`analysis.py`): Performs hypothesis tests to validate future population projections against historical growth rates.
 
 ### Suggested Visualizations
 
