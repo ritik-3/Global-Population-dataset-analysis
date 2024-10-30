@@ -75,7 +75,7 @@ project-directory
    ```
 
 3. **Power BI**:
-   - Open the `GlobalPopulationDashboard.pbix` file in Power BI Desktop.
+   - Open the `world_pop_analysis.pbix` file in Power BI Desktop.
 
 
 ### Suggested Visualizations
